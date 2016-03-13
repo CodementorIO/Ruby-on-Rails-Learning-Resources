@@ -5,6 +5,7 @@ When coding beginners ask which language they should learn first, most often the
 - Learning Center-[Ruby on Rails Learning Center](https://www.codementor.io/ruby-on-rails)
 - Tutorials-[Ruby on Rails Tutorials for Beginners and Programmers](https://www.codementor.io/ruby-on-rails/tutorial)
 - Guide-[Learn Ruby on Rails Online](https://www.codementor.io/learn-ruby-on-rails-online)
+- [Rails Girls Guide](http://guides.railsgirls.com/)
 
 
 ## Online Help
@@ -57,6 +58,9 @@ When coding beginners ask which language they should learn first, most often the
 - [Trailblazer Office Hours: A New Architecture For Rails by Nick Sutterer](https://www.codementor.io/officehours/2169403735/trailblazer-office-hours-a-new-architecture-for-rails-by-nick-sutterer)
 - [Working on Open Source, Large and Small](https://www.codementor.io/officehours/0171936245/working-on-open-source-large-and-small)
 
+## Screencasts
+- [Railscasts](http://railscasts.com/)
+- [GoRails](https://gorails.com/)
 
 
 ## Documentations
