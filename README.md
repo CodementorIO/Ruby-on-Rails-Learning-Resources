@@ -18,6 +18,7 @@ When coding beginners ask which language they should learn first, most often the
 - [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
 - [UT on Rails](http://www.schneems.com/ut-rails/)
 - [Ruby Monk](https://rubymonk.com/)
+- [Semicolon&Sons](https://www.semicolonandsons.com/series/Inside-The-Muse) - Screencasts showing how to run a production Rails app with real users and money flowing through it (plus all the complications that accompany this)
 
 ## General Topics for Beginners
 - [Q&A with Ruby on Rails Tutorial’s Michael Hartl](https://www.codementor.io/ruby-on-rails/tutorial/michael-hartl-learn-ruby-on-rails-beginner)
